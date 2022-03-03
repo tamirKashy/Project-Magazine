@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#include "magazine.h"
 
 
 Magazine Stack_Create() {
